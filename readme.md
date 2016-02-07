@@ -1,15 +1,22 @@
-Pyglet Taxi :
-=============
+Pyglet Taxi (2011) :
+====================
+
+<a href="url"><img src="https://raw.github.com/Khopa/pyglet-taxi/master/screenshoot.png"></a>
 
 This is an old project of mine from 2011.
 Actually i believe it's my fourth game (or should i say playable prototype ?) if you don't count the load of silly RPG Maker games i made when i was younger, before getting into programming. It's also my first 3D game.
 
-**
-Disclaimer : I have no rights on the assets (textures, sounds... etc) used in the projects. That's things i randomly took on the internet back then. If you own these assets (and can prove it) and want them removed. Just ask.
-However, you can do whatever you want with the python code provided (if you ever find an use for it, which i seriously doubt) as i release it under the Lesser Beer-Ware License.
-**
+*Disclaimer : I have no rights on the assets (textures, sounds... etc) used in the projects. That's things i randomly took on the internet back then. If you own these assets (and can prove it) and want them removed. Just ask.
+However, you can do whatever you want with the python code provided (if you ever find an use for it, which i seriously doubt) as i release it under the Lesser Beer-Ware License.*
 
 The goal of the game is to take customers and bring them to their destination. Well it's a taxi game.
+
+Technologies : 
+--------------
+
+- Python 2.7
+- Pyglet
+- Pygame
 
 Requirements : 
 --------------
